@@ -1,0 +1,15 @@
+.profile-body{
+    
+
+    
+    border-radius: 10px;
+    margin: 20px 0px 0px 20px;
+    position :fixed;
+    top: 12%;
+    width: 20vw;
+    height:70vh;
+}
+.proImage{
+    height: 290px;
+    
+}
